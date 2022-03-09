@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Error_message_generator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Image" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Button_Wid" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Button_num" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Button1_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">はい(Y)</Value>
+    </Setting>
+    <Setting Name="Button2_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">いいえ(N)</Value>
+    </Setting>
+    <Setting Name="Button3_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">キャンセル(C)</Value>
+    </Setting>
+    <Setting Name="Button4_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">は？(H)</Value>
+    </Setting>
+    <Setting Name="Button1_X" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="Button2_X" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">131</Value>
+    </Setting>
+    <Setting Name="Button3_X" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">241</Value>
+    </Setting>
+    <Setting Name="Button4_X" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">351</Value>
+    </Setting>
+    <Setting Name="Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Error message generator v1.0 - by Project-S Twitter:@ProjectS31415_1</Value>
+    </Setting>
+    <Setting Name="Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2022/03/09　v1.0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
