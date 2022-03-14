@@ -157,7 +157,7 @@ namespace Error_message_generator.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Error message generator v1.0 - by Project-S Twitter:@ProjectS31415_1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Error message generator v1.1 - by Project-S")]
         public string Title {
             get {
                 return ((string)(this["Title"]));
@@ -169,13 +169,73 @@ namespace Error_message_generator.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("2022/03/09　v1.0")]
+        [global::System.Configuration.DefaultSettingValueAttribute("2022/03/09 v1.0\r\n2022/03/14 v1.1")]
         public string Text {
             get {
                 return ((string)(this["Text"]));
             }
             set {
                 this["Text"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Black")]
+        public global::System.Drawing.Color TextForeColor {
+            get {
+                return ((global::System.Drawing.Color)(this["TextForeColor"]));
+            }
+            set {
+                this["TextForeColor"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Black")]
+        public global::System.Drawing.Color ButtonForeColor {
+            get {
+                return ((global::System.Drawing.Color)(this["ButtonForeColor"]));
+            }
+            set {
+                this["ButtonForeColor"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("White")]
+        public global::System.Drawing.Color TextBackColor {
+            get {
+                return ((global::System.Drawing.Color)(this["TextBackColor"]));
+            }
+            set {
+                this["TextBackColor"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Control")]
+        public global::System.Drawing.Color ButtonBackColor {
+            get {
+                return ((global::System.Drawing.Color)(this["ButtonBackColor"]));
+            }
+            set {
+                this["ButtonBackColor"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("MS UI Gothic, 10pt")]
+        public global::System.Drawing.Font FontSize {
+            get {
+                return ((global::System.Drawing.Font)(this["FontSize"]));
+            }
+            set {
+                this["FontSize"] = value;
             }
         }
     }

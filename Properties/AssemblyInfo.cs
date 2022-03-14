@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Error message generator")]
 [assembly: AssemblyDescription("Windowsのエラーメッセージを再現できます。")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Project-S Develop")]
+[assembly: AssemblyCompany("Project-S")]
 [assembly: AssemblyProduct("Error message generator")]
 [assembly: AssemblyCopyright("Copyright © 2022 Project-S@31415")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // すべての値を指定するか、次を使用してビルド番号とリビジョン番号を既定に設定できます
 // 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]

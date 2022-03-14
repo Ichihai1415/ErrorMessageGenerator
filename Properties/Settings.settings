@@ -36,10 +36,26 @@
       <Value Profile="(Default)">351</Value>
     </Setting>
     <Setting Name="Title" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Error message generator v1.0 - by Project-S Twitter:@ProjectS31415_1</Value>
+      <Value Profile="(Default)">Error message generator v1.1 - by Project-S</Value>
     </Setting>
     <Setting Name="Text" Type="System.String" Scope="User">
-      <Value Profile="(Default)">2022/03/09　v1.0</Value>
+      <Value Profile="(Default)">2022/03/09 v1.0
+2022/03/14 v1.1</Value>
+    </Setting>
+    <Setting Name="TextForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="ButtonForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="TextBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ButtonBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">MS UI Gothic, 10pt</Value>
     </Setting>
   </Settings>
 </SettingsFile>
